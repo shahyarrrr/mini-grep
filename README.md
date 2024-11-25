@@ -6,14 +6,6 @@ A command-line search tool written in Rust, inspired by the classic `grep` comma
 
 minigrep is a simple implementation of the grep utility that searches for specific text patterns in files. This version includes custom formatting for matched text (highlighting and underlining) and flexible command-line options.
 
-## Features
-
-- Search for text patterns in files
-- Case-sensitive and case-insensitive search options
-- Colored and underlined output for matched text
-- Line number display for matches
-- Simple and intuitive command-line interface
-
 ## Installation
 
 Make sure you have Rust installed on your system. Then:
