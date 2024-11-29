@@ -1,11 +1,4 @@
-# minigrep
-
-A command-line search tool written in Rust, inspired by the classic `grep` command. This project is based on Chapter 12 of "The Rust Programming Language" book with additional features and modifications.
-
-## Description
-
-minigrep is a simple implementation of the grep utility that searches for specific text patterns in files. This version includes custom formatting for matched text (highlighting and underlining) and flexible command-line options.
-
+# mini-grep
 minigrep is a project from the rust lang book in chapter 12, i am trying to make a bigger one from the minigrep actually should be
 
 ## Installation
