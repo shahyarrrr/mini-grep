@@ -1,5 +1,5 @@
 # mini-grep
-minigrep is a project from the rust lang book in chapter 12, i am trying to make a bigger one from the minigrep actually should be
+minigrep is a project from the rust lang book in chapter 12, i am trying to make a bigger one than the minigrep actually should be
 
 ## Installation
 
