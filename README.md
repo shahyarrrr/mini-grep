@@ -31,3 +31,11 @@ cargo run -- -q hello -p test.txt
 # Case-insensitive search for "HELLO" in test.txt
 cargo run -- -q HELLO -p test.txt --ignore-case
 ```
+
+
+
+## to do stuff
+
+interactive search bar
+add your fav logo under search page
+show founded words in text in org content in third window
